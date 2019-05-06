@@ -3,7 +3,7 @@
 
   Clone repo, install dependencies and launch it! 🚀
 
-    gitclone <project_repo_url> 
+    git clone https://ctalegre@bitbucket.org/ctalegre/spotify-frontapp.git
     npm install
     
    Launch Dev
