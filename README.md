@@ -1,9 +1,8 @@
-# Spotify API - CTAlegre
+# Spotify Based - CTAlegre
 
 
   Clone repo, install dependencies and launch it! 🚀
 
-    git clone https://ctalegre@bitbucket.org/ctalegre/spotify-frontapp.git
     npm install
     
    Launch Dev
